@@ -1,0 +1,13 @@
+Idee: Schaken
+Back-end volledig apart van front-end
+Unieke animaties voor lopen & verslaan worden. Random gekozen.
+Back-end krijgt volledige API
+Mogelijk AI, zeker speler tegen speler
+Nette 3D-modellen voor schaakstukken.
+Licht komt uit vakjes waar stukken op staan.
+"Animatie" als stuk geselecteerd is.
+Unit tests voor back-end.
+Sound effects bij lopen/slaan.
+Feminism mode voor koning/koningin
+Sinterklaas mode. Alle stukken zwart behalve paard + koning.
+Meerdere schaaksets.
