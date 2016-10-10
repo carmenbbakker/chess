@@ -11,3 +11,17 @@ Sound effects bij lopen/slaan.
 Feminism mode voor koning/koningin
 Sinterklaas mode. Alle stukken zwart behalve paard + koning.
 Meerdere schaaksets.
+
+
+* Schaakspel
+* Veel animatie en karakter
+  - Licht uit vakjes met schaakstukken erop
+  - Verschillende (random) animaties per zet
+  - Sound effects bij acties
+* Meerdere schaaksets om uit te kiezen.
+* Volledige implementatie schaken
+* Speler tegen speler
+  - Proberen om AI te maken om tegen te spelen
+* Diversiteit
+  - Vrouw-vriendelijk met feminisme-modus (koning en koningin omwisselen)
+  - Nederlandse-cultuur-modus waar alle stukken behalve de sint en zijn schimmels zwart zijn.
